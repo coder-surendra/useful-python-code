@@ -1,2 +1,2 @@
 # useful-python-code
-few lines code to help daily problems
+the objective of this repo, save code, which can help you to save time to perform tedious task 
